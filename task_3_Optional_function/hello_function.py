@@ -1,5 +1,5 @@
 Hello from the other siiiiiiiiiide!
-Hello, it's me, Martyna Lewinska
+Hello, it's me, Magda Pich
 3
 
 trigger url:
