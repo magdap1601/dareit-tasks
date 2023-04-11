@@ -14,5 +14,5 @@
     SELECT AVG(age)
     FROM students s ;
 
- - [x] Extract to [txt data](https://github.com/magdap1601/dareit-tasks/blob/main/task_5/database.txt) from the students table
+ - [x] Extract to [database.txt](https://github.com/magdap1601/dareit-tasks/blob/main/task_5/database.txt) from the students table
  - [x] The answer to question from point 3 is 22,5
