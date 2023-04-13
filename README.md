@@ -10,7 +10,7 @@ You only need Google Cloud Platform, repository GitHub, IDE (for example VSC) an
 
 [Task 3: Create Cloud Function](https://github.com/magdap1601/cloud_challenge/tree/main/task_3)
 
-[Task 4: Create Virtual Machine]()
+[Task 4: Create Virtual Machine](https://github.com/magdap1601/dareit-tasks/tree/main/task_4)
 
 [Task 5: Create Cloud SQL](https://github.com/magdap1601/cloud_challenge/tree/main/task_5)
 
