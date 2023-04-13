@@ -18,4 +18,6 @@ You only need Google Cloud Platform, repository GitHub, IDE (for example VSC) an
 
 [Task 7: CI/CD](https://github.com/magdap1601/dareit-terraform)
 
+[Task 8: Static Website](https://github.com/magdap1601/static-website-GCP)
+
 The code for the each task is contained in individual folders. Every step in task is wrote in README.md file also in individual folders.
