@@ -1,9 +1,3 @@
-provider "google" {
- project = "evident-zone-377721"
- region = "us-central1"
- zone  = "us-central1-c"
-}
-
 resource "google_storage_bucket_access_control" "public_rule" {
  bucket = google_storage_bucket.bucket.name
  role  = "READER"
