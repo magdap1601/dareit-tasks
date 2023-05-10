@@ -50,7 +50,7 @@ variable "compute_instance_zone" {
 variable "compute_instance_machine_type" {
   description = "A predefine machine type that you can use when you create instance."
   type        = string
-  default     = "us-central1-a"
+  default     = "e2-medium"
 }
 
 #sql database
