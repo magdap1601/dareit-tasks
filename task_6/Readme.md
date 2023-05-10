@@ -47,7 +47,8 @@ It takes few minute, your instance is created. In UI on Google Cloud Platform yo
 
 Add index.html. In Cloud Storage -> Bucket, there is a created bucket. You can add index.html manualy. Click on public URL and you can see content index.html.
 
-Congratulation, you have instance created by Terraform in your project GCP.
+Congratulation, you have instance created by Terraform in your project GCP :smiley: :satisfied:
+
 
 
 Past the code below to destroy instance: 
