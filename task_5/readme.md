@@ -33,6 +33,7 @@
    VALUES(0, '', '', '', '');
    ```
    In line with empty values, you can enter yours value in order: id, lastname, firstname, email, city.
+   
 
  - [x] Add column to the students table called age with type int.
    ```
